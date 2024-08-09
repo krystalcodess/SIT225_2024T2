@@ -1,0 +1,2 @@
+#define SECRET_OPTIONAL_PASS "0987654321"
+#define SECRET_SSID "Krystal"
